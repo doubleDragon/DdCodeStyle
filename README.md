@@ -1,0 +1,2 @@
+# DdCodeStyle
+android code style
